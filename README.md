@@ -9,7 +9,7 @@ This is a responsive recipe page featuring a header, a recipe image, prep time d
 
 ### Screenshot
 
-![Screenshot](./screenshot.jpg)
+![Screenshot](./preview.jpg)
 
 ### Links
 
