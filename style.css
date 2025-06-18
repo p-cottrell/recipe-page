@@ -62,7 +62,7 @@ h2 {
 }
 
 .prep-time-container {
-    background-color: va(--Rose-50);
+    background-color: var(--Rose-50);
     border-radius: 10px;
     padding: 20px;
 }
